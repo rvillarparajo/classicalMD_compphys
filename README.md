@@ -5,7 +5,7 @@
 * [General Info](#general-information)
 * [Features](#features)
 * [Setup](#setup)
-* [General Structure](#General Structure)
+* [General Structure](#General-structure)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
